@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    background-color: #B2E9FF;
+    text-align: center;
+}
+
+
+
+.main-section{
+    
+    background-color: #BEF8FF;
+}
+
+#on-wings-of-a-dragon{
+    
+}
+
+#ronia-the-robbers-daughter{
+    color: #9f3b00
+}
+h1{
+    color: #13004B;
+}
+
+h2{
+    color: #13004B;
+}
+
+h3{
+    color: #13445b
+}
+
+p{
+    color: #000000;
+}
+footer { 
+    background-color: #BEF8FF;
+}
+img{
+    width: 23vw;
+    height: auto;
+}
+
+#on-wings-of-a-dragon{
+    width: 60vw;
+    height: auto;
+    padding: 1vh 1% 3vh 1%;
+    margin: 15vh 15vw;
+    display: block;
+    }
+
+#ronia-the-robbers-daughter{
+    width: 60vw;
+    height: auto;
+    padding: 1vh 1% 3vh 1%;
+    margin: 15vh 15vw;
+    display: block;
+}
+
+#remarkables{
+    width: 60vw;
+    height: auto;
+    padding: 1vh 1% 3vh 1%;
+    margin: 15vh 15vw;
+    display: block;
+}
+
+#legendborn{
+    width: 60vw;
+    height: auto;
+    padding: 1vh 1% 3vh 1%;
+    margin: 15vh 15vw;
+    display: block;
+}
+
+#daughter-of-the-deep{
+    width: 60vw;
+    height: auto;
+    padding: 1vh 1% 3vh 1%;
+    margin: 15vh 15vw;
+    display: block;
+}
+
+#keeper-of-the-lost-cities{
+    width: 60vw;
+    height: auto;
+    padding: 1vh 1% 3vh 1%;
+    margin: 15vh 15vw;
+    display: block;
+}
+
+#trapped-in-ice{
+    width: 60vw;
+    height: auto;
+    padding: 1vh 1% 3vh 1%;
+    margin: 15vh 15vw;
+    display: block;
+}
